@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/flags-for-savva/static/css/main.5f361e03.chunk.css",
-    "main.js": "/flags-for-savva/static/js/main.859a3b17.chunk.js",
-    "main.js.map": "/flags-for-savva/static/js/main.859a3b17.chunk.js.map",
+    "main.css": "/flags-for-savva/static/css/main.2a8c99e0.chunk.css",
+    "main.js": "/flags-for-savva/static/js/main.b5140e4b.chunk.js",
+    "main.js.map": "/flags-for-savva/static/js/main.b5140e4b.chunk.js.map",
     "runtime-main.js": "/flags-for-savva/static/js/runtime-main.dc52c0e2.js",
     "runtime-main.js.map": "/flags-for-savva/static/js/runtime-main.dc52c0e2.js.map",
-    "static/js/2.25dd6d74.chunk.js": "/flags-for-savva/static/js/2.25dd6d74.chunk.js",
-    "static/js/2.25dd6d74.chunk.js.map": "/flags-for-savva/static/js/2.25dd6d74.chunk.js.map",
+    "static/css/2.bb4ba17c.chunk.css": "/flags-for-savva/static/css/2.bb4ba17c.chunk.css",
+    "static/js/2.d8734e12.chunk.js": "/flags-for-savva/static/js/2.d8734e12.chunk.js",
+    "static/js/2.d8734e12.chunk.js.map": "/flags-for-savva/static/js/2.d8734e12.chunk.js.map",
     "index.html": "/flags-for-savva/index.html",
-    "precache-manifest.754e22307ebaa9110a5f0d6f9e75b541.js": "/flags-for-savva/precache-manifest.754e22307ebaa9110a5f0d6f9e75b541.js",
+    "precache-manifest.17967140f757193a8090a8c9e777b3b4.js": "/flags-for-savva/precache-manifest.17967140f757193a8090a8c9e777b3b4.js",
     "service-worker.js": "/flags-for-savva/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/flags-for-savva/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.25dd6d74.chunk.js.LICENSE.txt": "/flags-for-savva/static/js/2.25dd6d74.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/flags-for-savva/static/media/logo.5d5d9eef.svg"
+    "static/css/2.bb4ba17c.chunk.css.map": "/flags-for-savva/static/css/2.bb4ba17c.chunk.css.map",
+    "static/css/main.2a8c99e0.chunk.css.map": "/flags-for-savva/static/css/main.2a8c99e0.chunk.css.map",
+    "static/js/2.d8734e12.chunk.js.LICENSE.txt": "/flags-for-savva/static/js/2.d8734e12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dc52c0e2.js",
-    "static/js/2.25dd6d74.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.859a3b17.chunk.js"
+    "static/css/2.bb4ba17c.chunk.css",
+    "static/js/2.d8734e12.chunk.js",
+    "static/css/main.2a8c99e0.chunk.css",
+    "static/js/main.b5140e4b.chunk.js"
   ]
 }

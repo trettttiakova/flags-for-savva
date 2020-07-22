@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/flags-for-savva/precache-manifest.754e22307ebaa9110a5f0d6f9e75b541.js"
+  "/flags-for-savva/precache-manifest.17967140f757193a8090a8c9e777b3b4.js"
 );
 
 self.addEventListener('message', (event) => {
