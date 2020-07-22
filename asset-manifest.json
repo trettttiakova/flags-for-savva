@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/trettttiakova/flags-for-savva/static/css/main.5f361e03.chunk.css",
-    "main.js": "/trettttiakova/flags-for-savva/static/js/main.a2b9b90e.chunk.js",
-    "main.js.map": "/trettttiakova/flags-for-savva/static/js/main.a2b9b90e.chunk.js.map",
-    "runtime-main.js": "/trettttiakova/flags-for-savva/static/js/runtime-main.00c18dac.js",
-    "runtime-main.js.map": "/trettttiakova/flags-for-savva/static/js/runtime-main.00c18dac.js.map",
-    "static/js/2.25dd6d74.chunk.js": "/trettttiakova/flags-for-savva/static/js/2.25dd6d74.chunk.js",
-    "static/js/2.25dd6d74.chunk.js.map": "/trettttiakova/flags-for-savva/static/js/2.25dd6d74.chunk.js.map",
-    "index.html": "/trettttiakova/flags-for-savva/index.html",
-    "precache-manifest.84d7d3e2215cdf1ac21079ab7a77a2cb.js": "/trettttiakova/flags-for-savva/precache-manifest.84d7d3e2215cdf1ac21079ab7a77a2cb.js",
-    "service-worker.js": "/trettttiakova/flags-for-savva/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/trettttiakova/flags-for-savva/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.25dd6d74.chunk.js.LICENSE.txt": "/trettttiakova/flags-for-savva/static/js/2.25dd6d74.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/trettttiakova/flags-for-savva/static/media/logo.5d5d9eef.svg"
+    "main.css": "/flags-for-savva/static/css/main.5f361e03.chunk.css",
+    "main.js": "/flags-for-savva/static/js/main.859a3b17.chunk.js",
+    "main.js.map": "/flags-for-savva/static/js/main.859a3b17.chunk.js.map",
+    "runtime-main.js": "/flags-for-savva/static/js/runtime-main.dc52c0e2.js",
+    "runtime-main.js.map": "/flags-for-savva/static/js/runtime-main.dc52c0e2.js.map",
+    "static/js/2.25dd6d74.chunk.js": "/flags-for-savva/static/js/2.25dd6d74.chunk.js",
+    "static/js/2.25dd6d74.chunk.js.map": "/flags-for-savva/static/js/2.25dd6d74.chunk.js.map",
+    "index.html": "/flags-for-savva/index.html",
+    "precache-manifest.754e22307ebaa9110a5f0d6f9e75b541.js": "/flags-for-savva/precache-manifest.754e22307ebaa9110a5f0d6f9e75b541.js",
+    "service-worker.js": "/flags-for-savva/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/flags-for-savva/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.25dd6d74.chunk.js.LICENSE.txt": "/flags-for-savva/static/js/2.25dd6d74.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/flags-for-savva/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.00c18dac.js",
+    "static/js/runtime-main.dc52c0e2.js",
     "static/js/2.25dd6d74.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a2b9b90e.chunk.js"
+    "static/js/main.859a3b17.chunk.js"
   ]
 }
