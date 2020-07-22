@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trettttiakova/flags-for-savva/static/css/main.5f361e03.chunk.css",
+    "main.js": "/trettttiakova/flags-for-savva/static/js/main.97e30beb.chunk.js",
+    "main.js.map": "/trettttiakova/flags-for-savva/static/js/main.97e30beb.chunk.js.map",
+    "runtime-main.js": "/trettttiakova/flags-for-savva/static/js/runtime-main.00c18dac.js",
+    "runtime-main.js.map": "/trettttiakova/flags-for-savva/static/js/runtime-main.00c18dac.js.map",
+    "static/js/2.3adeca41.chunk.js": "/trettttiakova/flags-for-savva/static/js/2.3adeca41.chunk.js",
+    "static/js/2.3adeca41.chunk.js.map": "/trettttiakova/flags-for-savva/static/js/2.3adeca41.chunk.js.map",
+    "index.html": "/trettttiakova/flags-for-savva/index.html",
+    "precache-manifest.b824cb454a8dfe0baab62928b7c50448.js": "/trettttiakova/flags-for-savva/precache-manifest.b824cb454a8dfe0baab62928b7c50448.js",
+    "service-worker.js": "/trettttiakova/flags-for-savva/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/trettttiakova/flags-for-savva/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3adeca41.chunk.js.LICENSE.txt": "/trettttiakova/flags-for-savva/static/js/2.3adeca41.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/trettttiakova/flags-for-savva/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00c18dac.js",
+    "static/js/2.3adeca41.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.97e30beb.chunk.js"
+  ]
+}
