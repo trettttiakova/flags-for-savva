@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3580d62c821886876148b642202e662",
+    "revision": "8622e2022bbd3d69d1967eb54089d66c",
     "url": "/trettttiakova/flags-for-savva/index.html"
   },
   {
-    "revision": "53d611e3b2c804fe1e29",
+    "revision": "7ad529ed5c12b36177b2",
     "url": "/trettttiakova/flags-for-savva/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "db3912c7eb8b81cfccdf",
-    "url": "/trettttiakova/flags-for-savva/static/js/2.3adeca41.chunk.js"
+    "revision": "913fc7a8b861651f5870",
+    "url": "/trettttiakova/flags-for-savva/static/js/2.25dd6d74.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/trettttiakova/flags-for-savva/static/js/2.3adeca41.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/trettttiakova/flags-for-savva/static/js/2.25dd6d74.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "53d611e3b2c804fe1e29",
-    "url": "/trettttiakova/flags-for-savva/static/js/main.97e30beb.chunk.js"
+    "revision": "7ad529ed5c12b36177b2",
+    "url": "/trettttiakova/flags-for-savva/static/js/main.a2b9b90e.chunk.js"
   },
   {
     "revision": "d9bab39a3393088e37c1",
